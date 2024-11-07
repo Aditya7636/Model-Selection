@@ -60,9 +60,3 @@ Next steps:
 - GridSearch for Hyperparameters tuning
 - Transform the notebook in script with dictionnary of models to test 
 ---
-## Contribution
-Your contributions are always welcome!
-
-If you want to contribute to this list (please do), send me a pull request or contact me [@chris](twitter.com/Christo35427519) or [chris](linkedin.com/in/phdchristophepere)
-
---- 
